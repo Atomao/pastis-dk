@@ -1,0 +1,12 @@
+flask
+numpy
+matplotlib
+tensorflow
+tensorflow-addons
+pandas 
+geopandas
+pathlib
+opencv-python
+sentinelhub
+datetime
+tiffile
