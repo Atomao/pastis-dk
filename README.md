@@ -1,5 +1,10 @@
 # satellites-internship
 
+### Semantic segmenation of crop fields 
+
+![Screenshot](demo/demo_field.png)
+
+
 ## Getting started
 
 - Clone repo
@@ -15,7 +20,7 @@ cd satellites-internship
 pip install -r requirements.txt
 ```
 
-- Start training Unet3D(define in train.py path to dataset)
+- Start training Unet3D(define in train.py path to dataset) 
 
 ```
 python train.py
